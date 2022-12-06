@@ -30,7 +30,8 @@ lcov-report
 coverage-final.json
 lcov.info
 test-report.xml
-# src
+src
+internals
 webpack.config.js
 coverage
 .github
